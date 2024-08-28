@@ -7,3 +7,5 @@ NPM : 2306210286
 Kelas : PBP A
 
 Hobi: Turu
+
+Jurusan : Sistem Informasi Komputer
